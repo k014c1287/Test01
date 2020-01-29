@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity implements ScanResultClickLi
             case (1):
                 if (resultCode == RESULT_OK) {
                     Log.d("Edit Text", data.getStringExtra("range"));
-                    Log.d("Edit Text", data.getStringExtra("テスト"));//GithubとAndroidStudioを連携させてみたのでテスト
+                    //Log.d("Edit Text", data.getStringExtra("テスト"));//GithubとAndroidStudioを連携させてみたのでテスト
                     Log.d(TAG, "Ranging Succeeded.");
 
                     /*
