@@ -1,7 +1,7 @@
-#Wed Jan 29 16:27:50 JST 2020
-base.0=C\:\\Users\\M.Kiriya\\AndroidStudioProjects\\Test_Wifi\\Application\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Wed Jan 29 18:10:54 JST 2020
+base.0=C\:\\Users\\M.Kiriya\\Documents\\GitHub\\Test01\\Test_Wifi\\Application\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\M.Kiriya\\AndroidStudioProjects\\Test_Wifi\\Application\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Users\\M.Kiriya\\Documents\\GitHub\\Test01\\Test_Wifi\\Application\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

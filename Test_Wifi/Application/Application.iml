@@ -19,77 +19,77 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../WifiRttScan/Application/src/main/res;file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/res/resValues/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/main/res;file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/res/resValues/debug" />
         <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
-    <output url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/intermediates/javac/debug/classes" />
-    <output-test url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/intermediates/javac/debugUnitTest/classes" />
+    <output url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/intermediates/javac/debugUnitTest/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../WifiRttScan/Application">
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/res/rs/debug" type="java-resource" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/res/resValues/debug" type="java-resource" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/ap_generated_sources/debugAndroidTest/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/debug/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/debug/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/debug/assets" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/debug/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/debug/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/debug/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/debug/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/androidTestDebug/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/androidTestDebug/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/androidTestDebug/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/androidTestDebug/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/androidTestDebug/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/androidTestDebug/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/androidTestDebug/shaders" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/testDebug/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/testDebug/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/testDebug/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/testDebug/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/testDebug/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/testDebug/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/testDebug/shaders" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/main/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/common/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/template/res" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/main/assets" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/main/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/common/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/template/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/main/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/main/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/tests/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/tests/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/tests/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/tests/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/tests/src" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/tests/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/tests/shaders" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/test/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/test/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/test/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/test/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/test/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/src/test/shaders" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../WifiRttScan/Application/build" />
+    <content url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application">
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/res/rs/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/res/resValues/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/ap_generated_sources/debugAndroidTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/common/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/template/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/common/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/template/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/tests/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/tests/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/tests/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/tests/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/tests/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/tests/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/WifiRttScan/Application/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
